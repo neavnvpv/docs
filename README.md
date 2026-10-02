@@ -1,1 +1,1 @@
-# docs
+# Документация проекта purrfect-deadline
